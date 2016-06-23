@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.6146954
-  brandStrength: 0.3953768669161946
+  brandStrength: 0.1612903
   lightness: 0.5179211
   brandColors:
     - '#A690A4'
@@ -38,4 +38,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.6827957
-layout_spectrum: 0.5376344
+layout_spectrum: 0.2688172
